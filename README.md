@@ -54,6 +54,23 @@ DataFrame 마스터하기!
 - Chapter 16: 웹에서 긁어오기
 - Chapter 17: 필요한 것만 골라내기
 
+# 데이터 시각화_주피터 노트북
+## 데이터 시각화(data-visualization)의 목적
+
+- 데이터를 직관적으로 가시화 하기위해 사용한다.
+- 빅데이터를 시각화하면 패턴을 발견해서 분석에 도움을 준다.
+- 데이터 시각화는 리포팅에 도움을 준다.
+
+데이터 시각화 정리
+
+1. data vidualization1_선 그래프(boradcast)
+2. data vidualization2_막대 그래프(boradcast)
+3. data vidualization2_막대 그래프 실습(boradcast)
+4. data vidualization3_파이(boradcast)
+5. data vidualization4_히스토그램(boradcast)
+6. data vidualization5_박스 플롯(boradcast)
+7. data vidualization6_산점도(boradcast)
+
 ## 권장 학습법
 흥미로운 학습을 위해 다양한 분야의 데이터를 사용해 보려 노력했습니다. 
 하지만 결국 내가 해야할 일은, 데이터 사이언스를 관심 있는 분야와 접목시키는 것입니다.
