@@ -71,7 +71,7 @@ DataFrame 마스터하기!
 6. data vidualization5_박스 플롯(boradcast)
 7. data vidualization6_산점도(boradcast)
 
-## 권장 학습법
+## 학습법
 흥미로운 학습을 위해 다양한 분야의 데이터를 사용해 보려 노력했습니다. 
 하지만 결국 내가 해야할 일은, 데이터 사이언스를 관심 있는 분야와 접목시키는 것입니다.
 
